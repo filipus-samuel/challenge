@@ -1,6 +1,6 @@
 class PG_CONN:
-    DB_USER = "mekari"
-    DB_PASS = "mekari"
+    DB_USER = "admin"
+    DB_PASS = "admin"
     DB_HOST = "localhost"
     DB_PORT = "5432"
-    DB_NAME = "mekari_db"
+    DB_NAME = "meka_db"
